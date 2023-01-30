@@ -2,7 +2,7 @@
 <br>
 <br>
 
-Hello, I'm a full-stack developer based in Nairobi Kenya and open to work remotely. I have acquired skills in html, css, JavaScript and React. I'm also currently enrolled in Microverse, learning Ruby and Ruby on Rails. I'm self-driven, passionate about coding and tech and look forward to working on community based projects that help make life easier.
+Hello, I'm a full-stack developer based in Nairobi Kenya and currently available for hire and open to remote job opportunities. I have acquired skills in html, css, JavaScript and React. I'm also currently enrolled in Microverse, learning Ruby and Ruby on Rails. I'm self-driven, passionate about coding and tech and look forward to working on community based projects that help make life easier.
 
 <div>
   <summary>:zap: GitHub Stats</summary>
