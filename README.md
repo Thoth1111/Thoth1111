@@ -8,11 +8,11 @@
 </p>
 
 ### Hey there😄,<br> 
-💻I'm a full-stack developer<br> 
-based out of Nairobi, Kenya🗺️<br>
-💼 Currently available for work and open to collaborating on group projects<br>
-I'd like for opportunities I can grow from and apply my skillset fully to a worthwhile cause.<br>
-🍖Love me a good barbecue, and looking to learn the guitar in my free time.<br><br>
+* 💻I'm a full-stack developer<br> 
+* 🗺️Based out of Nairobi, Kenya<br>
+* 💼 Currently available for work and open to collaborating on group projects<br>
+* 📈 I'd like for opportunities I can grow from and apply my skillset fully to a worthwhile cause.<br>
+* 🍖Love me a good barbecue, and looking to learn the guitar in my free time.<br><br>
 
 ### Proficiencies:
 <p align="left">
