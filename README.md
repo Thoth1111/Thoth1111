@@ -1,10 +1,10 @@
 <img alt ="banner" width="100%" style="border-radius:8px;" src="./Al-banner.png">
 <p align="right">
-<a href="https://twitter.com/androvelle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nwakauc" height="20" width="30" /></a>
-<a href="https://www.linkedin.com/in/alwyn-androvelle-simiyu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/uchechi-nwaka-79a21a75/" height="20" width="30" /></a>
-<a href="https://www.facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nwaka.uche.5" height="20" width="30" /></a>
-<a href="https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nwaka_uchechi/" height="20" width="30" /></a>
-<a href="https://www.hackerrank.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/nwakauc1" height="20" width="30" /></a>
+<a href="https://twitter.com/androvelle" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="androvelle" height="20" width="30" /></a>
+<a href="https://www.linkedin.com/in/alwyn-androvelle-simiyu/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/alwyn-androvelle-simiyu/" height="20" width="30" /></a>
+<a href="https://www.facebook.com/androvelle" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/androvelle" height="20" width="30" /></a>
+<a href="https://www.instagram.com/alwyn_androvelle/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alwyn_androvelle/" height="20" width="30" /></a>
+<a href="https://www.hackerrank.com/alwynsimiyu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/alwynsimiyu" height="20" width="30" /></a>
 </p>
 
 ### Hey there😄,<br> 
